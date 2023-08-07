@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Finance, Sun Yat-sen University, 2024
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2023: Research Assistant
+  * Guangfa Securities
+  * Duties included: Aging Economics
+  * Supervisor: Dr. Xiaojing Lu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2022: Research Assistant
+  * Huafu Securities
+  * Duties included: Industrial studies on IT companies
+  * Supervisor: Zemin Chen
+
+<!--
 Skills
 ======
 * Skill 1
@@ -57,3 +57,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
