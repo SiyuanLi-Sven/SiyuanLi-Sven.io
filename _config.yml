@@ -10,7 +10,7 @@ locale                   : "zh-China"
 title                    : "Siyuan Li | 李思远"
 title_separator          : "-"
 name                     : &name "Siyuan Li"
-description              : &description "Undergraduate at Sun Yat-sen University, Finance & Economics. "
+description              : &description "Undergraduate at Sun Yat-sen University, Finance & Economics. Contact me with lisiyuansven@foxmail.com, or WeChat 'SiyuanLi-SvenLi'"
 url                      : https://siyuanli-sven.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"s
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Siyuan Li"
   avatar           : "photo.png"
-  bio              : "Undergraduate at Sun Yat-sen University, Finance & Economics."
+  bio              : "Undergraduate at Sun Yat-sen University, Finance & Economics. Contact me with lisiyuansven@foxmail.com, or WeChat 'SiyuanLi-SvenLi'"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://NotYetJustWait.com"
+  googlescholar    : "http://I_am_Waiting_Too.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
