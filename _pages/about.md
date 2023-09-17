@@ -1,14 +1,32 @@
 ---
 permalink: /
-title: "Welcome to Siyuan Li's personal page!"
+title: "Welcome to Siyuan Li's website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am Siyuan Li from Sun Yat-Sen University. I will graduate in 2024 and I am seeking a Ph.D./MPhil position. I majored in Finance and Economics and also interested in Fintech, social media research, statistics and philosophy. You are welcomed to read my works both on this website and on my [GitHub account](https://github.com/SiyuanLi-Sven). I have a GPA of 3.6/4, ranking about 50% at our college. I got an IELTS score of 7.5 (Listening 8.5; Reading 8; Writing 6.5; Speaking 6.5), and a CET-6 score of 599.
 
-More information coming soon
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I planned to become a staff member in the Investment Banking Department when I was a greenhand at university but changed my mind after spending more than a whole year as an intern in financial companies. I made up my mind to be an influential researcher rather than an insignificant intermediary. I consider that being a researcher in the academic field is closer to my goal.
+
+About Me
+===
+**Ability in Programming:**
+* Independently completed a large number ofweb crawling projects, including those for academic research projects led byfaculty members, as well as projects focused on Weibo and WeChat publicaccounts
+* Proficient in the use of deep learningtools for text analysis; received a high grade for the coursework"Research on the Development of Public Opinion during the Guangzhoucovid-19 Epidemic".
+
+**Experience in Primary Market Investment Internships:**
+* Investment Assistant, Qianhai WeigangVenture Capital Fund
+* Research Assistant in the Large ConsumerGroup, GF Securities Industrial Research Institute
+
+**Experience in Entrepreneurship Competitions:**
+* Microfluidic Chip Project for EarlyScreening of Breast Cancer - Bronze Award in the Guangdong Provincial"Internet+" University Student Innovation and EntrepreneurshipCompetition *
+* Elderly-Friendly Financial App -Submitted for the 17th Citibank Cup Financial Innovation ApplicationCompetition
+
+More details comming soon
+===
+**Statistical regression:** Proficient in STATA. Independentlycompleted course papers on PSM-DID model.
+**Entrepreneurship project:** Member of the “Yu Xia Bang" team, afish and shrimp counting tool based on computer vision, currently trying tosell services to Zhanjiang shrimp factories.
+**Badminton:** Over 10 years of systematic learning,currently a member of the college badminton team.
